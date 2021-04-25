@@ -1,0 +1,11 @@
+[
+    "has_imdb_votes",
+    "release_year",
+    "has_imdb_rating",
+    "has_tags",
+    "in_language",
+    "directed_by",
+    "written_by",
+    "has_genre",
+    "starred_actors"
+]
